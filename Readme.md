@@ -1,8 +1,8 @@
 # Photography Portfolio Website
 Welcome to my Photography Portfolio Website! This project showcases a collection of my favorite photos, providing viewers with a glimpse into the world as captured through my lens.The website is developed using CSS and HTML.
-![About section](C:\Users\admin\Documents\Moringa\photography-portfolio\portfolio.PNG)
-![Portfolio section](porfolio1.PNG)
-![Reviews section](porfolio2.PNG)
+![About section](portfolio.png)
+![Portfolio section](porfolio1.png)
+![Reviews section](porfolio2.png)
 ## Installation
 1. Clone this repository to your local machine using:**https://github.com/Issa783/photography-portfolio.git**
 
