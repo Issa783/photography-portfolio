@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align:center;
+    padding: 10px;
+    background-color: #334bd4;
+    color: aliceblue;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #db7e27;
+    padding: 10px;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+a:hover{
+    background-color: blue;
+}
+h2{
+    color:orange;
+}
+section{
+    padding: 10px;
+    font-size: 20px;
+    margin:40px;
+}
+.flex-container{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    background-color: indigo;
+}
+.flex-container > div {
+    
+    margin: 10px;
+    padding: 5px;
+    
+
+}
+input{
+    width:50%;
+    padding:12px 20px;
+    margin:8px 0;
+    border-radius: 5px;
+}
+input[type=text]:focus{
+    background-color: aqua;
+}
+textarea{
+    resize: vertical;
+}
+input[type=submit]{
+    border:2px solid black;
+    border-radius: 4px;
+    color:white;
+    background-color: green;
+    float: right;
+    width: 100px;
+    margin:0px;
+}
+textarea:focus{
+    background-color: aqua;
+}
+span{
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(22, 6, 24);
+    color: white;
+    
+    width:100%;
+    
+    
+}
