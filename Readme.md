@@ -1,6 +1,6 @@
 # Photography Portfolio Website
 Welcome to my Photography Portfolio Website! This project showcases a collection of my favorite photos, providing viewers with a glimpse into the world as captured through my lens.The website is developed using CSS and HTML.
-![Part of my Photography website](portfolio.PNG)
+![Part of my Photography website](portfolio.PNG))
 ![Alt text](porfolio1.PNG)
 ![Alt text](porfolio2.PNG)
 ## Installation
@@ -10,7 +10,7 @@ Welcome to my Photography Portfolio Website! This project showcases a collection
    **cd photography-portfolio**
 ## Usage
 1. Open the **index.html** file in your preferred web browser to view the photography portfolio website.
-2. Navigate to the **"About"**section to read what the website is about
+2. Navigate to the **"About"**  section to read what the website is about
 3. Navigate to the **"Portfolio"** section to see some of my favorite photos displayed in a visually appealing grid.
 4. Also navigate to the **"Reviews"** section to provide your review regarding the design of the website.
 ## Contributions
