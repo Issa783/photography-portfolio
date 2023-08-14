@@ -67,6 +67,11 @@ input[type=submit]{
     float: right;
     width: 100px;
     margin:0px;
+    cursor: pointer;
+}
+input[type=submit]:hover{
+    background-color: cadetblue;
+    color:blue;
 }
 textarea:focus{
     background-color: aqua;
