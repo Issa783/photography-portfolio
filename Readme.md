@@ -7,8 +7,8 @@ The website is developed using:
 1. HTML5
 2. CSS
 ## Prequisites
-To be able to view the website you will need the following.
-- A *terminal* for those on `linux` 0r `macOS` and *Gitbash* for those on `windows` 
+- A *terminal* for those on `linux` 0r `macOS` and *Gitbash* for those on `windows` where you will input commands.
+- Visual studio code where the code of the website will be displayed.
 ## Setup
 To be able to interact with the website easily follow the steps below:
 1. Clone this repository to your local machine using
