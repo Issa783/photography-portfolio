@@ -1,5 +1,7 @@
 # Photography Portfolio Website
 Welcome to my Photography Portfolio Website! This project showcases a collection of my favorite photos, providing viewers with a glimpse into the world as captured through my lens.
+
+*Please access the live version of this `README file` by tapping* https://github.com/Issa783/photography-portfolio/blob/master/Readme.md
 ## Tools
 The website is developed using:
 1. HTML5
