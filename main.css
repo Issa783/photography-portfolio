@@ -71,7 +71,7 @@ input[type=submit]{
 }
 input[type=submit]:hover{
     background-color: cadetblue;
-    color:blue;
+    color:brown;
 }
 textarea:focus{
     background-color: aqua;
